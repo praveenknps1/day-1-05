@@ -1,0 +1,31 @@
+#mark{
+    display: inline-block;
+    height: 500px;
+    padding: 5px;
+    border: 10px;
+    margin: 20px;
+    width: 700px;
+    text-align: center;
+    vertical-align: top;
+    background-color: slategrey;
+}
+#mark2{
+    display: inline-block;
+    height: 500px;
+    padding: 5px;
+    border: 10px;
+    margin: 20px;
+    width: 600px;
+   
+   
+    
+    vertical-align: top;
+    overflow: scroll;
+  
+    
+}
+div :target{
+    background-color: chartreuse; 
+    
+}
+
